@@ -40,5 +40,5 @@ Lembre-se de:
 
 - Submenta seu projeto através do link no github 
 
-![alt text](https://github.com/jordannym/PowerBI1/blob/135d030751ba4d5127c2f680a636bc4e8c2396dd/images/Page1.png)
-
+![Sales Report](https://github.com/jordannym/PowerBI1/blob/135d030751ba4d5127c2f680a636bc4e8c2396dd/images/Page1.png)
+![Profit Report](https://github.com/jordannym/PowerBI1/blob/253876f9622b5a5e1a3dae4323c9643abf167c3b/images/Page2.png)
