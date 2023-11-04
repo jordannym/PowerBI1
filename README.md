@@ -1,4 +1,4 @@
-# PowerBI1
+# PowerBI
 Desafio de Projeto Power BI
 
 Instruções de Entrega do Desafio
